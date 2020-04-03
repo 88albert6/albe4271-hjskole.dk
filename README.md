@@ -1,5 +1,5 @@
 FiveM Tattling Bot
-This FivemM script will allow you to create a Discord Tattling Bot that reads FiveM messages and prints them in the Discord. It was created for FiveM a portuguese RP server => HargusRP (https://discord.gg/f6XPw72). If you want you can change it and adapt it to do whatever you want with it.
+This FivemM script will allow you to create a Discord Tattling Bot that reads FiveM messages and prints them in the Discord. 
 
 Prerequisites
 discord
